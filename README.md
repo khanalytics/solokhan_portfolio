@@ -12,9 +12,9 @@
 ### Experience
 
 ***MISLEADING FANDANGO MOVIE RATINGS PYTHON EDA***
-- Utilized Python(Jupyter Notebooks) to analyze movie ratings differences between Fandango vs multiple movie review sites.
-- Transformed the data by merging multiple data sources on key ids.
-- Aggregated and visualized the data by using pandas, and matplotlib to show Fandango rated movies higher versus similar sites.
+ - Utilized Python(Jupyter Notebooks) to analyze movie ratings differences between Fandango vs multiple movie review sites.
+ - Transformed the data by merging multiple data sources on key ids.
+ - Aggregated and visualized the data by using pandas, and matplotlib to show Fandango rated movies higher versus similar sites.
 
 *REGIONAL SALES PERFORMANCE TABLEAU DASHBOARD*
 - Imported 6 tables from data source into Tableau , joined on keys, and ensured datatypes matched with data source.
