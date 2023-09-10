@@ -33,7 +33,7 @@
 - Mapped 100 worksite locations grouped by proximity of zip codes and public transportation on google maps increasing worksite assessments’ efficiency by 30%.
 - Scheduled optimal timeslots for worksite assessment meetings, reducing 2 assessment days per week.
 - Conducted 20 weekly assessments at youth worksites for safety condition and documented reports in government database.
-- 
+
 ***LORAWAN TECH SUPPORT*** |Helium Network Inc. | Remote | July 2020 – May 2022
 - Assisted clients remotely with 50+ optimal gateway installations which allowed various data sensor connections.
 - Monitored clients’ Lora Wan 15 gateways daily, documented downtimes and provided clients with tech support to resolve issues. ● Reported weekly and monthly key performance indicators (KPI) to clients via Excel charts and Tableau dashboards.
