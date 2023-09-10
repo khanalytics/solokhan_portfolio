@@ -36,5 +36,6 @@
 
 ***LORAWAN TECH SUPPORT*** |Helium Network Inc. | Remote | July 2020 – May 2022
 - Assisted clients remotely with 50+ optimal gateway installations which allowed various data sensor connections.
-- Monitored clients’ Lora Wan 15 gateways daily, documented downtimes and provided clients with tech support to resolve issues. ● Reported weekly and monthly key performance indicators (KPI) to clients via Excel charts and Tableau dashboards.
-- Resolved 100+ ad-hoc problems from clients.Education
+- Monitored clients’ Lora Wan 15 gateways daily, documented downtimes and provided clients with tech support to resolve issues.
+- Reported weekly and monthly key performance indicators (KPI) to clients via Excel charts and Tableau dashboards.
+- Resolved 100+ ad-hoc problems from clients.
