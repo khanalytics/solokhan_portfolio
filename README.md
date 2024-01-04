@@ -5,8 +5,8 @@
 
 ### Education
 - Google Advanced Data Analytics Certificate(In progress)
-- Masters of Data Science | Eastern University(2023)
-- Bachelors of Science | The City College of New York(2020)
+- Masters of Data Science | Eastern University | Decemeber 2023
+- Bachelors of Science | The City College of New York | January 2020 
 
 ### Projects
 
