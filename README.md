@@ -1,30 +1,31 @@
 # Data Analytics
 
 ### Techincal Skills
- SQL, Excel(Vlookup, pivot tables), Tableau, Python(pandas,matplotlib, scikitlearn), R(tidyverse)
+ SQL, Excel(Vlookup, pivot tables), Tableau, Python(numpy, pandas,matplotlib, scikitlearn), R(tidyverse)
 
 ### Education
+- Google Advanced Data Analytics Certificate(In progress)
 - Masters of Data Science | Eastern University(2023)
 - Bachelors of Science | The City College of New York(2020)
 
 ### Projects
 
-***MISLEADING FANDANGO MOVIE RATINGS PYTHON EDA***
-- Utilized Python(Jupyter Notebooks) to analyze movie ratings differences between Fandango vs multiple movie review sites.
-- Transformed the data by merging multiple data sources on key ids.
-- Aggregated and visualized the data by using pandas, and matplotlib to show Fandango rated movies higher versus similar sites.
+***FANDANGO MOVIE RATINGS PYTHON DATA ANALYSIS***
+- Investigated movie rating differences between Fandango and multiple review sites using Python. 
+- Transformed the data by merging multiple data sources on key ids.  
+- Utilized Numpy, Pandas and Matplotlib to aggregate and visualize data, revealing instances where Fandango consistently rated movies higher than comparable sites.
 
 ***REGIONAL SALES PERFORMANCE TABLEAU DASHBOARD***
-- Imported 6 tables from data source into Tableau , joined on keys, and ensured datatypes matched with data source.
-- Cleaned and processed data by filtering for Null /incorrect values and replacing them with correct values.
-- Aggregated revenue, expenses, profit values utilizing custom calculated fields and parameters for EDA.
-- Visualized KPIs and charts in interactive dashboard story to summarize key findings.
+- Integrated 6 tables in Tableau, ensuring accuracy through key matching.
+- Wrangled data by filtering Null/incorrect values and replacing them with accurate data.
+- Utilized custom parameters or calculated fields for EDA on revenue, expenses, and profit.
+- Developed an interactive dashboard for concise presentation of key findings.
 
 ***EASTERN BANKING HOLDINGS SQL DATABASE MANAGEMENT***
-- Created PostgreSQL banking schema with appropriate datatypes, set up keys/constraints and imported data into database.
-- Utilized data cleaning and text analysis techniques to successfully identify misspelled strings, null values, and other discrepancies.
-- Transformed tables by joining and intersecting multiple tables for specific business problems.
-- Performed complex queries and subqueries on database for Exploratory data analysis(EDA) and resolved problem statements.
+- Implemented a PostgreSQL banking schema, configured keys/constraints, and efficiently imported data.
+- Applied data cleaning and text analysis to rectify misspelled strings, null values, and discrepancies.
+- Conducted table transformations by joining and intersecting for targeted problem statements.
+- Executed complex SQL queries and subqueries for Exploratory Data Analysis (EDA) to address problem statements.
 
 ### Experience
 
@@ -34,8 +35,4 @@
 - Scheduled optimal timeslots for worksite assessment meetings, reducing 2 assessment days per week.
 - Conducted 20 weekly assessments at youth worksites for safety condition and documented reports in government database.
 
-***LORAWAN TECH SUPPORT*** |Helium Network Inc. | Remote | July 2020 – May 2022
-- Assisted clients remotely with 50+ optimal gateway installations which allowed various data sensor connections.
-- Monitored clients’ Lora Wan 15 gateways daily, documented downtimes and provided clients with tech support to resolve issues.
-- Reported weekly and monthly key performance indicators (KPI) to clients via Excel charts and Tableau dashboards.
-- Resolved 100+ ad-hoc problems from clients.
+
