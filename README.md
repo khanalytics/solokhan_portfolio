@@ -1,16 +1,23 @@
 # Data Analytics
 
-### Techincal Skills
- SQL, Excel(Vlookup, pivot tables), Tableau, Python(numpy, pandas,matplotlib, scikitlearn), R(tidyverse)
+### Contact Details
+khansolo452@gmail.com
+(929)548-2238
+
+### Technical Skills
+ SQL, Excel(Vlookup, pivot tables), Tableau, Python data analysis libraries(numpy, pandas,matplotlib, scikitlearn), R(tidyverse)
 
 ### Education
-- Google Advanced Data Analytics Certificate(progress)
-- Masters of Data Science|Eastern University (December 2023)
-- Bachelors of Science|CCNY (January 2020)
+- Masters of Data Science|Eastern University | December 2023|
+- Bachelors of Science|CCNY |January 2020 |
 
 ### Projects
 
-***FANDANGO MOVIE RATINGS PYTHON DATA ANALYSIS*** | May- June 2023
+**PATIENTS’ HEALTH ANALYSIS IN R** | July-September 2023
+- Analyzed and  cleaned 440,000+ row hospital patients’ dataset.
+- Created an optimal statistical model to predict patients gender based on selected features. 
+
+**FANDANGO MOVIE RATINGS PYTHON DATA ANALYSIS** | May- June 2023
 - Investigated movie rating differences between Fandango and multiple review sites using Python. 
 - Transformed the data by merging multiple data sources on key ids.  
 - Utilized Numpy, Pandas and Matplotlib to aggregate and visualize data, revealing instances where Fandango consistently rated movies higher than comparable sites.
@@ -22,7 +29,7 @@
 - Utilized custom parameters or calculated fields for EDA on revenue, expenses, and profit.
 - Developed an interactive dashboard for concise presentation of key findings.
 
-***EASTERN BANKING HOLDINGS SQL DATABASE MANAGEMENT*** | January- February 2023
+**EASTERN BANKING HOLDINGS SQL DATABASE MANAGEMENT** | January- February 2023
 - Implemented a PostgreSQL banking schema, configured keys/constraints, and efficiently imported data.
 - Applied data cleaning and text analysis to rectify misspelled strings, null values, and discrepancies.
 - Conducted table transformations by joining and intersecting for targeted problem statements.
@@ -30,7 +37,7 @@
 
 ### Experience
 
-***DATA ASSOCIATE*** | Henry Street Settlement Inc.|  New York City, NY (Hybrid) | May 2022 - October 2022
+**DATA ASSOCIATE** | Henry Street Settlement Inc.|  New York City, NY (Hybrid) | May 2022 - October 2022
 - Extracted, Transformed and Loaded(ETL) 400 clients contact details data by ensuring data’ validity in Excel sheets.
 - Mapped 100 worksite locations grouped by proximity of zip codes and public transportation on google maps increasing worksite assessments’ efficiency by 30%.
 - Scheduled optimal timeslots for worksite assessment meetings, reducing 2 assessment days per week.
