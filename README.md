@@ -29,7 +29,7 @@
 - Utilized custom parameters or calculated fields for EDA on revenue, expenses, and profit.
 - Developed an interactive dashboard for concise presentation of key findings.
 
-**EASTERN BANKING HOLDINGS SQL DATABASE MANAGEMENT** | January- February 2023
+**EASTERN BANKING SQL DATABASE MANAGEMENT** | January- February 2023
 - Implemented a PostgreSQL banking schema, configured keys/constraints, and efficiently imported data.
 - Applied data cleaning and text analysis to rectify misspelled strings, null values, and discrepancies.
 - Conducted table transformations by joining and intersecting for targeted problem statements.
