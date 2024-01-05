@@ -37,7 +37,7 @@
 
 ### Experience
 
-**DATA ASSOCIATE** | Henry Street Settlement Inc.|  New York City, NY (Hybrid) | May 2022 - October 2022
+**DATA ASSOCIATE** | Henry Street Settlement Inc.|  New York City, NY | May 2022 - October 2022
 - Extracted, Transformed and Loaded(ETL) 400 clients contact details data by ensuring data’ validity in Excel sheets.
 - Mapped 100 worksite locations grouped by proximity of zip codes and public transportation on google maps increasing worksite assessments’ efficiency by 30%.
 - Scheduled optimal timeslots for worksite assessment meetings, reducing 2 assessment days per week.
