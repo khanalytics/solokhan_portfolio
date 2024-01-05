@@ -1,15 +1,15 @@
 # Data Analytics
 
 ### Contact Details
-khansolo452@gmail.com
-(929)548-2238
+- khansolo452@gmail.com
+- (929)548-2238
 
 ### Technical Skills
  SQL, Excel(Vlookup, pivot tables), Tableau, Python data analysis libraries(numpy, pandas,matplotlib, scikitlearn), R(tidyverse)
 
 ### Education
-- Masters of Data Science|Eastern University | December 2023|
-- Bachelors of Science|CCNY |January 2020 |
+- Masters of Data Science|Eastern University | December 2023
+- Bachelors of Science|CCNY |January 2020 
 
 ### Projects
 
