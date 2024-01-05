@@ -4,9 +4,9 @@
  SQL, Excel(Vlookup, pivot tables), Tableau, Python(numpy, pandas,matplotlib, scikitlearn), R(tidyverse)
 
 ### Education
-- Google Advanced Data Analytics Certificate(In progress)
-- Masters of Data Science | Eastern University (December 2023)
-- Bachelors of Science | The City College of New York (January 2020)
+- Google Advanced Data Analytics Certificate(progress)
+- Masters of Data Science|Eastern University (December 2023)
+- Bachelors of Science|CCNY (January 2020)
 
 ### Projects
 
