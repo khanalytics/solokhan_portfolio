@@ -5,8 +5,8 @@
 
 ### Education
 - Google Advanced Data Analytics Certificate(In progress)
-- Masters of Data Science | Eastern University |December 2023
-- Bachelors of Science | The City College of New York |January 2020 
+- Masters of Data Science | Eastern University (December 2023)
+- Bachelors of Science | The City College of New York (January 2020)
 
 ### Projects
 
@@ -16,6 +16,7 @@
 - Utilized Numpy, Pandas and Matplotlib to aggregate and visualize data, revealing instances where Fandango consistently rated movies higher than comparable sites.
 
 ***REGIONAL SALES PERFORMANCE TABLEAU DASHBOARD*** | March- April 2023
+[Publication](https://public.tableau.com/app/profile/solaiman.khan/viz/USAcompaniesSalesbyChannelDashboard/Dashboard1MohammadKhan)
 - Integrated 6 tables in Tableau, ensuring accuracy through key matching.
 - Wrangled data by filtering Null/incorrect values and replacing them with accurate data.
 - Utilized custom parameters or calculated fields for EDA on revenue, expenses, and profit.
